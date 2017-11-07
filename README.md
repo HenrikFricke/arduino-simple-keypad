@@ -14,6 +14,10 @@ The customer enters a password with the four push buttons (represents digits 1-4
 
 It's not intended to use it in real world, because therefore encoding would be very important (the password is stored as plain text).
 
+## Circuit
+
+![Circuit](docs/circuit.png)
+
 ## License
 
 See [License](LICENSE).
